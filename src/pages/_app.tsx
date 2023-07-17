@@ -1,6 +1,6 @@
 import { globalStyles } from '@/styles/global'
 import type { AppProps } from 'next/app'
-import logoImg from '../../public/Logo.svg'
+import logoImg from '../assets/Logo.svg'
 import Image from 'next/image'
 import { Container, Header } from '@/styles/pages/app'
 
