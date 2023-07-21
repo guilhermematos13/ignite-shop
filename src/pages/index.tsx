@@ -9,7 +9,6 @@ import 'keen-slider/keen-slider.min.css'
 import { stripe } from '@/lib/stripe'
 import Stripe from 'stripe'
 import Link from 'next/link'
-
 interface HomeProps {
   products: {
     id: string
